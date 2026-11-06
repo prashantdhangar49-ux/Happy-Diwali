@@ -1,0 +1,8 @@
+{
+  "name": "Shubh Deepawali - Royal Festive Greetings",
+  "description": "An interactive Diwali greeting card celebration with flickering diyas, swinging lanterns, burst fireworks, golden rangoli, and custom greetings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
